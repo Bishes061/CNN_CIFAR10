@@ -8,7 +8,6 @@ This project focuses on training a deep-learning model to classify images from t
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
-- [Usage](#usage)
 - [Results](#results)
 - [License](#license)
 
